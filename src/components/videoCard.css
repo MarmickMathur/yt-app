@@ -1,0 +1,9 @@
+.VideoCard {
+    display: flex !important;
+    align-items: center;
+    cursor: pointer;
+}
+
+.VideoCard img {
+    width: 180px;
+}
